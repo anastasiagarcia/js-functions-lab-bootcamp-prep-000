@@ -1,7 +1,7 @@
 // write your code below!
 //first one with no parameters
 
-Function happyHolidays(){
+function happyHolidays(){
   return `Happy holidays!`;
 }
 
