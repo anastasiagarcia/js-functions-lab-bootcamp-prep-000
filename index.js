@@ -14,7 +14,7 @@ function happyHolidaysTo(name){
 //with 2 parameters: holiday and name
 
 function happyHolidayTo(holiday,name){
-  return `Happy ${holiday}, ${name} !`;
+  return `Happy ${holiday}, ${name}!`;
 }
 
 //with 2 parameters :the holday name and number of days till that holiday
